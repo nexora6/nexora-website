@@ -1,0 +1,1 @@
+Upload all files to a public GitHub repository and enable GitHub Pages.
